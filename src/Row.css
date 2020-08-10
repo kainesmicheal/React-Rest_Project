@@ -1,6 +1,6 @@
 .row__posters {
   display: flex;
-  height: 1100px;
+  height: 100%;
   overflow-y: hidden;
   overflow-x: scroll;
   margin-top: 5%;
